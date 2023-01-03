@@ -48,4 +48,4 @@ function StoreListing() {
     )
    }
    
-
+   export default StoreListing
